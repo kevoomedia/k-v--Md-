@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id, { text: '' + b64data });
 
                let FLASH_MD_TEXT = `
-*EEEY...TOPU DMH JUST CONNECTED PAIRING CODE*
+*𝕰𝖊𝖊𝖞... 𝖙𝖔𝖕𝖚 𝖉𝖒𝖍 𝖍𝖆𝖘 𝖏𝖚𝖘𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 𝖙𝖍𝖊 𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝖎𝖉*
 *Wow you choosen TOPU-MD complete the deployment and enyoy the speed*
 ____________________________________
 ╔════◇
@@ -70,7 +70,7 @@ ____________________________________
 
 ║ ❒ 𝐎wner: _https://wa.me/message/6ST5TFZLH6BGF1_
 
-║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Toputech/Topu-md_
+║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/Toputech/Topu-ai_
 
 ║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/BxelCdrHnDYBNfMy2jafgI_
 
