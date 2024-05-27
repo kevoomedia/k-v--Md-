@@ -67,14 +67,15 @@ ____________________________________
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
+| ❒ youtube channel;https://www.youtube.com/@KavinMinja-hy2tu_
 
-║ ❒ 𝐎wner: _https://wa.me/255766535597
+║ ❒ 𝐎wner: _https://wa.me/255766535597_
 
-║ ❒ .repo:_https://github.com/kevoomedia/k-v--M
+║ ❒ .repo:_https://github.com/kevoomedia/k-v--M_
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮�://https://chat.whatsapp.com/BZmwl30gccmGYushBf9dc3
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮�://https://chat.whatsapp.com/BZmwl30gccmGYushBf9dc3_
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O_
 ║ 
 ╚════════════════════╝ 
  *©Këvøø-tëch*
