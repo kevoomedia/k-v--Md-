@@ -68,7 +68,7 @@ ____________________________________
 ╔═════◇
 ║ 『••• OWNER INFO •••』
 
-║ ❒ 𝐎wner: _https://wa.me/255766 535 597
+║ ❒ 𝐎wner: _https://wa.me/255766535597
 
 ║ ❒ .repo:_https://github.com/kevoomedia/k-v--M
 
@@ -80,7 +80,7 @@ ____________________________________
  *©Këvøø-tëch*
 ___________________________________
 
-Don't Forget To Give Star To My Repo_`
+Don't Forget To Give Star⭐ To My Repo_`
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  
 
